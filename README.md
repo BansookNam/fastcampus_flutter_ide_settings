@@ -2,6 +2,25 @@
 
 ## Android Studio
 
+
+
+
+
+
+### 1. Appearance 적용.
+
+* Android Studio - Settings - Appearance & Behavior - Appearance
+
+* Use custom font 체크
+
+* Font: **D2Coding**
+
+* Size: **19**
+
+
+
+### 2. Settings 적용.
+
 - [Settings.zip](https://github.com/BansookNam/fastcampus_flutter_ide_settings/blob/main/Android%20Studio/settings.zip) (링크를 클릭하고, Download 버튼 클릭)
 
 | 종류               | 설정값            | 설명                                                          |
