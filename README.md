@@ -2,8 +2,7 @@
 
 ## Android Studio
 
-- [Settings.zip](https://github.com/BansookNam/fastcampus_flutter_ide_settings/blob/main/Android%20Studio/settings.zip)
-- (우측 누르고 다른 이름으로 저장하기 클릭)
+- [Settings.zip](https://github.com/BansookNam/fastcampus_flutter_ide_settings/blob/main/Android%20Studio/settings.zip) (우측 누르고 다른 이름으로 저장하기 클릭)
 
 | 종류               | 설정값            | 설명                                                          |
 | ---------------- | -------------- | ----------------------------------------------------------- |
