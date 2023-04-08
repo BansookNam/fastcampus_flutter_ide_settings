@@ -2,7 +2,7 @@
 
 ## Android Studio
 
-- [Settings.zip](https://github.com/BansookNam/fastcampus_flutter_ide_settings/blob/main/Android%20Studio/settings.zip) (우측 누르고 다른 이름으로 저장하기 클릭)
+- [Settings.zip](https://github.com/BansookNam/fastcampus_flutter_ide_settings/blob/main/Android%20Studio/settings.zip) (링크를 클릭하고, Download 버튼 클릭)
 
 | 종류               | 설정값            | 설명                                                          |
 | ---------------- | -------------- | ----------------------------------------------------------- |
@@ -11,5 +11,3 @@
 | Font             | D2Coding 1.3.2 | https://github.com/naver/d2codingfont/releases/tag/VER1.3.2 |
 | Font Size        | 22             | 영상 화면에 잘 보이는 크기, 너무 불편할땐 그때그때 조정해서 사용 가능                    |
 |                  |                |                                                             |
-
-
